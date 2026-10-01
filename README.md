@@ -21,8 +21,7 @@ No frameworks, no build step — clone the repo and open any `index.html` in you
 
 ### Shared files
 
-- `index.html`, `style.css`, `index.js` — the root landing page that links to every project
-- `images/` — shared image assets used across the projects
+- `images/` — preview thumbnails (`p1.png` … `p10.png`) and a `hero.png` banner used by the projects
 
 ## Getting started
 
@@ -31,7 +30,7 @@ git clone https://github.com/sajidpathan72/HTML-CSS-JS_Projects-.git
 cd HTML-CSS-JS_Projects-
 ```
 
-Then open `index.html` in your browser, or jump straight into a project:
+Then open a project's `index.html` in your browser:
 
 ```bash
 start project6/index.html
